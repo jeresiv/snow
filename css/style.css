@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacques+Francois+Shadow&display=swap');
+
+@font-face {
+    font-family: "Fascinate Inline";
+    src: url(../fonts/fascinateinline-regular-webfont.woff2);
+}
+
+
+  
+body {
+    color: red;
+    background-image: url(../images/snowflakes.jpg);
+    /*background-repeat: no-repeat;*/
+}
+
+p {
+    font-family: "Jacques Francois Shadow", serif;
+    color: green;
+}
+
+div p {
+    color: yellow;
+
+}
+
+.header {
+    font-family: 'Fascinate Inline';
+}
+
+#id4 {
+    color:purple;
+}
